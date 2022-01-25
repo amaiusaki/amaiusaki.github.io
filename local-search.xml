@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>Day -</title>
+    <link href="/2022/01/25/myUrl/"/>
+    <url>/2022/01/25/myUrl/</url>
+    
+    <content type="html"><![CDATA[<p>test123</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>第一分類</category>
+      
+      <category>小標</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/12/20/hello-world/"/>
     <url>/2021/12/20/hello-world/</url>

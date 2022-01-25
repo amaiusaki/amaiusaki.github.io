@@ -6,7 +6,7 @@
   <link href="https://amaiusaki.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://amaiusaki.github.io/blog/"/>
-  <updated>2021-12-20T03:05:14.282Z</updated>
+  <updated>2022-01-25T07:29:43.230Z</updated>
   <id>https://amaiusaki.github.io/blog/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Day -</title>
+    <link href="https://amaiusaki.github.io/blog/2022/01/25/myUrl/"/>
+    <id>https://amaiusaki.github.io/blog/2022/01/25/myUrl/</id>
+    <published>2022-01-25T07:30:30.000Z</published>
+    <updated>2022-01-25T07:29:43.230Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="第一分類" scheme="https://amaiusaki.github.io/blog/categories/%E7%AC%AC%E4%B8%80%E5%88%86%E9%A1%9E/"/>
+    
+    <category term="小標" scheme="https://amaiusaki.github.io/blog/categories/%E7%AC%AC%E4%B8%80%E5%88%86%E9%A1%9E/%E5%B0%8F%E6%A8%99/"/>
+    
+    
+    <category term="test" scheme="https://amaiusaki.github.io/blog/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://amaiusaki.github.io/blog/2021/12/20/hello-world/"/>
     <id>https://amaiusaki.github.io/blog/2021/12/20/hello-world/</id>
-    <published>2021-12-20T03:05:14.282Z</published>
-    <updated>2021-12-20T03:05:14.282Z</updated>
+    <published>2021-12-20T03:05:16.000Z</published>
+    <updated>2022-01-22T08:35:15.146Z</updated>
     
     
       
